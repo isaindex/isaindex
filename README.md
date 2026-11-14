@@ -5,7 +5,7 @@
 ## ✿ About me <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="28">
 
 ♡ Software Engineering student at UCSal<br>
-♡ Digital Transformation intern, building Python automations and chatbot integrations<br>
+♡ Digital Transformation intern, building Python automations and integrations<br>
 ♡ Into process automation and AI agents<br>
 ♡ Advanced English (C1)
 
